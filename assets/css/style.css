@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: rgb(184, 178, 178);
+}
+
+#main-container {
+  border: black 3px solid;
+  margin: 10px;
+  padding: 10px
+}
